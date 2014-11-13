@@ -1,0 +1,7 @@
+C:\Users\1\Documents\2 курс 3 семестр - Технология программирования\Лаб2\DAA.DP.observer\DAA.DP.observer\bin\Debug\DAA.DP.observer.exe.config
+C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.observer\DAA.DP.observer\bin\Debug\DAA.DP.observer.exe.config
+C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.observer\DAA.DP.observer\obj\Debug\DAA.DP.observer.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.observer\DAA.DP.observer\bin\Debug\DAA.DP.observer.exe
+C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.observer\DAA.DP.observer\bin\Debug\DAA.DP.observer.pdb
+C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.observer\DAA.DP.observer\obj\Debug\DAA.DP.observer.exe
+C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.observer\DAA.DP.observer\obj\Debug\DAA.DP.observer.pdb
